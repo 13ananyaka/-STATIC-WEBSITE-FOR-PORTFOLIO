@@ -62,3 +62,15 @@ Local Preview with Live Server – Ideal during development and testing phases.
 
 💬 Final Thoughts:
 This project not only demonstrates frontend skills but also reflects the developer’s ability to create a structured, user-friendly, and visually consistent application. It is a professional-grade starting point for future enhancements such as dark mode toggling, animations, or JavaScript-based project filtering.##
+
+#OUTPUT#
+
+![Image](https://github.com/user-attachments/assets/36d83fc9-7268-4525-a3da-c89941c02787)
+
+![Image](https://github.com/user-attachments/assets/bc964ef3-4de2-424e-a913-765903517fe2)
+
+![Image](https://github.com/user-attachments/assets/c5b0da23-10c8-4ff9-8c99-8dfccf7bd706)
+
+![Image](https://github.com/user-attachments/assets/d0bd3d62-ffea-48b4-bf68-76e7b286c2cd)
+
+![Image](https://github.com/user-attachments/assets/0b921e85-ce73-4802-8291-0a85ac2174ab)
