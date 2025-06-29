@@ -1,0 +1,53 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: #ffffff;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.main-menu {
+  padding: 3rem 1rem;
+}
+
+.main-title {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  color: #ffcc70;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #d3d3d3;
+  margin-bottom: 3rem;
+}
+
+.icon-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.icon-card {
+  background-color: #ffffff10;
+  border: 2px solid #ffcc70;
+  border-radius: 15px;
+  padding: 2rem;
+  width: 120px;
+  text-decoration: none;
+  color: #ffcc70;
+  transition: 0.3s;
+}
+
+.icon-card:hover {
+  background-color: #ffcc70;
+  color: #1a1a1a;
+}
+
+.icon-card i {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  display: block;
+}
